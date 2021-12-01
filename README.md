@@ -1,2 +1,3 @@
-# LDES-Workflow
-Configure workflows for replicating or fragmentating a LDES
+# LDES Workflow
+
+Create a YAML file and start a workflow from your CLI!
